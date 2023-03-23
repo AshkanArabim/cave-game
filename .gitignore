@@ -1,0 +1,5 @@
+.vscode
+catchall.txt
+*.class
+*.pdf
+*.xlsx
